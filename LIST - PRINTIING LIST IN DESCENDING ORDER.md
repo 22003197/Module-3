@@ -1,4 +1,4 @@
-# Exp.No:3c
+# Exp.No:13
 ## LIST - PRINTIING LIST IN DESCENDING ORDER
 
 ### AIM  
