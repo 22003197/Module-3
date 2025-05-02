@@ -1,4 +1,4 @@
-# Exp.No:3b  
+# Exp.No:12 
 ## REGEX - FIND SEQUENCES
 
 ### AIM  
