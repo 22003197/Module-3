@@ -1,4 +1,4 @@
-# Exp.No:3d  
+# Exp.No:14 
 ## TUPLES - FIND COMBINATION OF TUPLES
 
 ### AIM
