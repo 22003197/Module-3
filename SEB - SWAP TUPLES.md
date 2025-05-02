@@ -1,4 +1,4 @@
-# Exp.No:3e
+# Exp.No:15
 ## SEB - SWAP TUPLES
 
 ### AIM  
