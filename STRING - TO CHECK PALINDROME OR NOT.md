@@ -1,4 +1,4 @@
-# Exp.No:3a
+# Exp.No:11
 ## STRING - TO CHECK PALINDROME OR NOT
 
 ### AIM  
