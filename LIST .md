@@ -1,5 +1,5 @@
-# Exp.No:13
-## LIST - PRINTIING LIST IN DESCENDING ORDER
+# Exp.No: 13
+## LIST 
 
 ### AIM  
 
