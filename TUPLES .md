@@ -1,5 +1,5 @@
-# Exp.No:14 
-## TUPLES - FIND COMBINATION OF TUPLES
+# Exp.No: 14 
+# TUPLES 
 
 ### AIM
 
