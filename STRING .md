@@ -1,5 +1,5 @@
-# Exp.No:11
-## STRING - TO CHECK PALINDROME OR NOT
+# Exp.No: 11
+# STRING 
 
 ### AIM  
 
