@@ -1,5 +1,5 @@
-# Exp.No:12 
-## REGEX - FIND SEQUENCES
+# Exp.No : 12 
+# REGEX 
 
 ### AIM  
 
